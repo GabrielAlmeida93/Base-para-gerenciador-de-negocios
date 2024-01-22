@@ -1,0 +1,2 @@
+# Finalidade
+Esse Web App foi pensado como base para construção de web sites ou aplicativos web gerenciadores de demandas que fazem parte do dia a dia de um empreendimento, seja comércio ou serviço. Aqui há construção em html, estilização em css e interação com javascript. A linguagem PHP foi utilizada para conexão e interação com o banco de dados, este necessita de um servidor e um banco de dados (exemplo, servidor APACHE e um banco de dados MySql.
